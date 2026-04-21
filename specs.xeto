@@ -13,4 +13,5 @@ DemoThing: Dict {
   name: Str
   count: Number
   foo
+  bar
 }
