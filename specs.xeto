@@ -1,0 +1,15 @@
+//
+// Copyright (c) 2026, XetoBase
+// All Rights Reserved
+//
+// History:
+//   21 Apr 2026  Trevor Adelman  Creation
+//
+
+// Trivial demo spec used to prove the xs.git publisher roundtrip
+// (init → publish → tag → install) works against a real flat-layout
+// repository.
+DemoThing: Dict {
+  name: Str
+  count: Number
+}

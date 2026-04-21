@@ -1,0 +1,19 @@
+//
+// Copyright (c) 2026, XetoBase
+// All Rights Reserved
+//
+// History:
+//   21 Apr 2026  Trevor Adelman  Creation
+//
+
+pragma: Lib <
+  doc: "Demo lib for exercising the xs.git publisher roundtrip."
+  version: "0.0.1"
+  depends: {
+    { lib: "sys" }
+  }
+  org: {
+    dis: "XetoBase"
+    uri: "https://xetobase.com/"
+  }
+>
